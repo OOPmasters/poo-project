@@ -1,4 +1,4 @@
-# POO Project
+# POO Project:
 
 ## Descripción
 Subproyecto desarrollado para explicar conceptos de Programación Orientada a Objetos en Java mediante una página web interactiva.
