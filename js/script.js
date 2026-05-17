@@ -1,4 +1,3 @@
-  <script>
         document.addEventListener('DOMContentLoaded', function () {
             // ========== MOBILE SIDEBAR TOGGLE ==========
             const menuToggle = document.getElementById('menuToggle');
@@ -132,5 +131,5 @@
                     closeSidebar();
                 }
             });
+            lucide.createIcons();
         });
-    </script>
