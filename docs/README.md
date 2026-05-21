@@ -15,6 +15,7 @@ Facilitar el aprendizaje de conceptos fundamentales de POO a través de ejemplos
 
 ## Estructura del proyecto
 
+```txt
 poo-project/
 
 │── index.html
@@ -38,6 +39,7 @@ poo-project/
 │── docs/
 
     └── README.md
+```
     
 ## Funcionalidades
 - Menú lateral interactivo
