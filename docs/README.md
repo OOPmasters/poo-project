@@ -1,6 +1,5 @@
 # POO Project:
 
-## Descripción
 Subproyecto desarrollado para explicar conceptos de Programación Orientada a Objetos en Java mediante una página web interactiva.
 
 ## Objetivo
@@ -46,3 +45,4 @@ poo-project/
 - Yohar Jobey Vargas Cedeño
 - Kevin Arismedi Charry Chavez
 - Javier Hernando Amezquita Pantoja
+- Sergio Laguna Verján
