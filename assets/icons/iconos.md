@@ -1,2 +1,4 @@
 - SVG (Scalable Vector Graphics): Para la renderización de los glifos.
-- Documentación oficial de Lucide: https://lucide.dev/icons/
+
+  ## Recursos Externos
+    Documentación oficial de Lucide: https://lucide.dev/icons/
