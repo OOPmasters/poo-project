@@ -19,23 +19,17 @@ Facilitar el aprendizaje de conceptos fundamentales de POO a través de ejemplos
 poo-project/
 
 │── index.html
-
+|
 │── css/
-
-    └── styles.css
-
+|    └── styles.css
+|
 │── js/
-
-    └── script.js
-
+|   └── script.js
 │── assets/
-
-    └── fonts
-   
-    └── icons
-   
-    └── images
-
+|    └── fonts
+|    └── icons
+|    └── images
+|
 │── docs/
 
     └── README.md
