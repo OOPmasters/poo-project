@@ -1,0 +1,3 @@
+- Inter: QGYsz_wNahGAdqQ43Rh_fKDp.woff2
+- JetBrains Mono: UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
+- Work Sans: tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2
